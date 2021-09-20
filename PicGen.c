@@ -30,7 +30,6 @@ int main()
 
     itoa(num, nums, 10);
 
-    
     numsLen = strlen(nums);
 
     switch(numsLen) {
